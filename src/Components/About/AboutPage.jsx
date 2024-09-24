@@ -27,20 +27,11 @@ const AboutPage = () => {
         <div className="aboutContent">
           <h3>Our Story</h3>
           <h4>
-            Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id est laborum.
+            Dassault Systèmes is headquartered in Vlizy-Villacoublay, France. This location serves as the central hub for the company's operations and innovation efforts.
+
           </h4>
           <p>
-            Saw wherein fruitful good days image them, midst, waters upon, saw.
-            Seas lights seasons. Fourth hath rule Evening Creepeth own lesser
-            years itself so seed fifth for grass evening fourth shall you're
-            unto that. Had. Female replenish for yielding so saw all one to
-            yielding grass you'll air sea it, open waters subdue, hath. Brought
-            second Made. Be. Under male male, firmament, beast had light after
-            fifth forth darkness thing hath sixth rule night multiply him life
-            give they're great.
+            Dassault Systèmes SE, often referred to simply as Dassault Systèmes, is a French multinational software corporation renowned for its innovative solutions in 3D design, simulation, and product lifecycle management (PLM). The company is best known for its 3DEXPERIENCE platform, which integrates various software applications to facilitate the creation and management of virtual twin experiences, allowing businesses to simulate and optimize their products and processes in a digital environment 
           </p>
           <div className="content1">
             <div className="contentBox">
@@ -65,13 +56,7 @@ const AboutPage = () => {
             <div className="textContent">
               <h5>The Company</h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet
-                sapien dignissim a elementum. Sociis metus, hendrerit mauris id
-                in. Quis sit sit ultrices tincidunt euismod luctus diam. Turpis
-                sodales orci etiam phasellus lacus id leo. Amet turpis nunc,
-                nulla massa est viverra interdum. Praesent auctor nulla morbi
-                non posuere mattis. Arcu eu id maecenas cras.
-              </p>
+              Dassault Systèmes provides a wide range of software solutions and consulting services across various industries, including manufacturing, aerospace, automotive, and life sciences. Their offerings are designed to help organizations innovate sustainably by harmonizing product development with environmental considerations. The company's solutions enable users to visualize and simulate real-world performance, which enhances decision-making and accelerates product development cycles.              </p>
             </div>
           </div>
         </div>

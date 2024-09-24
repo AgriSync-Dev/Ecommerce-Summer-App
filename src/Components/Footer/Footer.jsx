@@ -32,12 +32,7 @@ const Footer = () => {
               <img src={logo} alt="" Z />
             </div>
 
-            <p>1418 River Drive, Suite 35 Cottonhall, CA 9622 United States</p>
-
-            <div className="footer_address">
-              <strong> sale@uomo.com </strong>
-              <strong> +1 246-345-0695 </strong>
-            </div>
+            <p>10 Rue Marcel Dassault, Vlizy-Villacoublay, France</p>
 
             <div className="social_links">
               <FaFacebookF />
@@ -137,23 +132,13 @@ const Footer = () => {
         </div>
         <div className="footer_bottom">
           <p>
-            © 2024 Uomo. All Rights Reserved | Made By{" "}
-            <a
-              href="https://github.com/shakti177"
-              target="_blank"
-              rel="noreferrer"
-              style={{ color: "#C22928", textDecoration: "none" }}
-            >
-              Shakti Tamrakar
-            </a>{" "}
-            with ❤️
+            © 2024 Spatial Systems, Inc. All Rights Reserved.
           </p>
           <div className="footerLangCurrency">
             <div className="footerLang">
               <p>Language</p>
               <select name="language" id="language">
                 <option value="english">United States | English</option>
-                <option value="Hindi">Hindi</option>
                 <option value="Germany">Germany</option>
                 <option value="French">French</option>
               </select>
@@ -162,7 +147,6 @@ const Footer = () => {
               <p>Currency</p>
               <select name="currency" id="currency">
                 <option value="USD">$ USD</option>
-                <option value="INR">₹ INR</option>
                 <option value="EUR">€ EUR</option>
                 <option value="GBP">£ GBP</option>
               </select>
