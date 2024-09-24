@@ -26,13 +26,10 @@ const AboutPage = () => {
         <img src={about1} alt="" />
         <div className="aboutContent">
           <h3>Our Story</h3>
-          <h4>
-            Dassault Systèmes is headquartered in Vlizy-Villacoublay, France. This location serves as the central hub for the company's operations and innovation efforts.
+          <h6>
+          The AgriSync Marketplace is an extension of AgriSync's core services, designed to enhance the agricultural support ecosystem. It connects farmers with various agricultural advisors and service providers, facilitating a more efficient exchange of knowledge and resources.
+          </h6>
 
-          </h4>
-          <p>
-            Dassault Systèmes SE, often referred to simply as Dassault Systèmes, is a French multinational software corporation renowned for its innovative solutions in 3D design, simulation, and product lifecycle management (PLM). The company is best known for its 3DEXPERIENCE platform, which integrates various software applications to facilitate the creation and management of virtual twin experiences, allowing businesses to simulate and optimize their products and processes in a digital environment 
-          </p>
           <div className="content1">
             <div className="contentBox">
               <h5>Our Mission</h5>
@@ -56,7 +53,8 @@ const AboutPage = () => {
             <div className="textContent">
               <h5>The Company</h5>
               <p>
-              Dassault Systèmes provides a wide range of software solutions and consulting services across various industries, including manufacturing, aerospace, automotive, and life sciences. Their offerings are designed to help organizations innovate sustainably by harmonizing product development with environmental considerations. The company's solutions enable users to visualize and simulate real-world performance, which enhances decision-making and accelerates product development cycles.              </p>
+              The AgriSync plays a crucial role in modernizing agricultural practices by leveraging technology to connect farmers with the expertise they need. This integration of services helps address prevalent challenges in farming, ultimately aiming to improve
+              </p>
             </div>
           </div>
         </div>

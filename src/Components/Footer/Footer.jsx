@@ -32,7 +32,7 @@ const Footer = () => {
               <img src={logo} alt="" Z />
             </div>
 
-            <p>10 Rue Marcel Dassault, Vlizy-Villacoublay, France</p>
+            <p>United Status of America</p>
 
             <div className="social_links">
               <FaFacebookF />
@@ -132,7 +132,7 @@ const Footer = () => {
         </div>
         <div className="footer_bottom">
           <p>
-            © 2024 Spatial Systems, Inc. All Rights Reserved.
+            © 2024 AgriSync, Inc. All Rights Reserved.
           </p>
           <div className="footerLangCurrency">
             <div className="footerLang">

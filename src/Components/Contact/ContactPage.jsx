@@ -25,8 +25,7 @@ const ContactPage = () => {
             <div className="address">
               <h3>Store in France</h3>
               <p>
-                10 Rue Marcel Dassault, Vlizy-Villacoublay
-                <br />  Paris
+                United Status of America
               </p>
             </div>
           </div>
